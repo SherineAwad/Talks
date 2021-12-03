@@ -1,13 +1,13 @@
 # Talks 
 
-## Key slides
+### Key slides
 
 
-### 1. How to use AWS
+#### 1. How to use AWS
 
 A very light tutorial on how to create AWS instance and conncet it 
 
-### 2. How to use "Drive"
+#### 2. How to use "Drive"
 
 A very light tutorial on how to use "Drive" tool to pull/push files automatically from/to Google drive instead of tedious manual process. 
   
