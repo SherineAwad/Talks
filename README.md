@@ -5,7 +5,7 @@
 
 #### 1. How to use AWS
 
-A very light tutorial on how to create AWS instance and conncet it 
+A very light tutorial on how to create AWS instance and connect it 
 
 #### 2. How to use "Drive"
 
